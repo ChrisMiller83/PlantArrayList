@@ -3,10 +3,16 @@ Given a base Plant class and a derived Flower class, complete main() to create a
   Ex. If the input is:
 
   plant Spirea 10 
+  
   flower Hydrangea 30 false lilac 
+  
   flower Rose 6 false white
+  
   plant Mint 4
+  
   -1
+  
+  
   the output is:
 
   Plant Information: 

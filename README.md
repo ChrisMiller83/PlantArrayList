@@ -15,22 +15,38 @@ Given a base Plant class and a derived Flower class, complete main() to create a
   
   the output is:
 
-  Plant Information: 
+  Plant Information:
+  
     Plant name: Spirea
+    
     Cost: 10
+    
 
   Plant Information: 
+  
     Plant name: Hydrangea
+    
     Cost: 30
+    
     Annual: false
+    
     Color of flowers: lilac
+    
 
   Plant Information: 
+  
     Plant name: Rose
+    
     Cost: 6
+    
     Annual: false
+    
     Color of flowers: white
+    
 
   Plant Information: 
+    
     Plant name: Mint
+    
     Cost: 4
+    
